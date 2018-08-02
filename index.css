@@ -1,0 +1,821 @@
+@font-face {
+    font-family: Celias;
+    src: url("fonts/Celias_Regular.woff");
+}
+
+.How-it-works {
+    height: 25px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: normal;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.Contact {
+    height: 25px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: normal;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.Sign-in {
+    height: 25px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: normal;
+    color: var(--warm-grey);
+}
+.Incola {
+    height: 35px;
+    font-family: Celias;
+    font-size: 35px;
+    font-weight: 500;
+    letter-spacing: normal;
+    color: #313131;
+    text-align: center;
+}
+.Paying-your-Bond-jus {
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 100%;
+    font-family: Celias;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 1.46;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.navbar-default {
+    background-color: #ffffff;
+}
+.flex-container {
+    display: flex;
+    padding-top: 5%;
+    align-items: center;
+    justify-content: center;
+}
+.flex-container > .Rectangle-20-40{
+    width: 258px;
+    height: 65px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    margin: 0 auto;
+    letter-spacing: 0.4px;
+    color: #ffffff;
+    border-radius: 10px;
+    background-image: linear-gradient(256deg, #ff705a, #ff5e70);
+    box-shadow: 0 10px 20px 5px rgba(255, 61, 86, 0.3);
+}
+.Asset-92 {
+    width: 674px;
+    height: auto;
+    object-fit: contain;
+}
+.Asset-2 {
+    width: 533.6px;
+    height: auto;
+    object-fit: contain;
+}
+.Line {
+    height: 3px;
+    border: solid 5px #979797;
+}
+.Incola-pays-upfront-Copy {
+    margin-top: 13%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 54px;
+    font-family: Celias;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.You-payback-in-insta {
+    margin-left: auto;
+    margin-right: auto;
+    height: 54px;
+    font-family: Celias;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.By-paying-upfront-w {
+    margin-left: auto;
+    margin-right: auto;
+    height: 44px;
+    font-family: Celias;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: center;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.Asset-99 {
+    width: 317px;
+    height: auto;
+    position: relative;
+    object-fit: contain;
+    z-index: 1;
+}
+.Asset-100 {
+    width: 337px;
+    height: auto;
+    object-fit: contain;
+    position: relative;
+    z-index: 1;
+}
+.Asset-101 {
+    width: 418px;
+    height: auto;
+    object-fit: contain;
+}
+.down {
+    margin-top: 115px;
+}
+.wrap{
+    margin-top: 5%;
+}
+.noun_8174_cc-copy-2 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    z-index: 3;
+    top: 27px;
+    left: 27px;
+    object-fit: contain;
+    background-image: linear-gradient(223deg, #ffffff, #ffffff);
+}
+.noun_8174_cc-copy-1 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    z-index: 3;
+    top: 78px;
+    object-fit: contain;
+    background-image: linear-gradient(223deg, #ffffff, #ffffff);
+}
+.Instant-payment {
+    margin-top: 14%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 54px;
+    font-family: Celias;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.Once-approved-the-R {
+    margin-left: auto;
+    margin-right: auto;
+    height: 22px;
+    font-family: Celias;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: center;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.flex-container1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.flex-container1 > div {
+    width: 20%;
+}
+.You-pay-us-an-instal {
+    width: 60%;
+    padding-top: 22%;
+    direction: rtl;
+    font-family: Celias;
+    font-size: 2vw;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.Asset-102 {
+    height: auto;
+    object-fit: contain;
+}
+.noun_984007_cc {
+    height: auto;
+    object-fit: contain;
+    background-image: linear-gradient(236deg, #ff705a, #ff5e70);
+    box-shadow: 0 10px 20px 5px rgba(255, 61, 86, 0.3);
+}
+.noun_1063309_cc {
+    height: auto;
+    object-fit: contain;
+}
+.We-pay-RBO-the-full {
+    width: 70%;
+    padding-top: 1%;
+    font-family: Celias;
+    font-size: 2vw;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.flex-container2 {
+    display: flex;
+    padding-top: 4%;
+    align-items: center;
+    justify-content: center;
+}
+.flex-container2 > .Rectangle-20-41 {
+    width: 258px;
+    height: 65px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.4px;
+    text-align: center;
+    color: #ff3d56;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: solid 0.8px #ff3d56;
+}
+.Killer-Prices {
+    margin-top: 14%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 54px;
+    font-family: Celias;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.Its-our-promise {
+    margin-left: auto;
+    margin-right: auto;
+    height: 54px;
+    font-family: Celias;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.Short-term-finance-s {
+    margin-left: auto;
+    margin-right: auto;
+    height: 22px;
+    font-family: Celias;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: center;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.flex-container3{
+    display: flex;
+    margin-top: 8%;
+    justify-content: center;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto auto;
+}
+.Group-2 {
+    height: auto;
+    object-fit: contain;
+}
+.gallery {
+    position: relative;
+    display: block;
+}
+.Text {
+    position: absolute;
+    width: 167px;
+    margin: auto;
+    padding-top: 35%;
+    top: 0; right: 0;
+    bottom: 0; left: 0;
+    text-align: center;
+}
+.Text p {
+    display: inline-table;
+    vertical-align: middle;
+}
+.Bond {
+    height: 53px;
+    font-family: Celias;
+    font-size: 42px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ff3d56;
+    color: var(--watermelon);
+}
+.item1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+.item2 {
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
+.item3 {
+    grid-column-start: 5;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+.item4 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+.item5 {
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+.layer {
+    height: auto;
+    font-family: Celias;
+    font-size: 37px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--watermelon);
+}
+.Instalment {
+    height: auto;
+    font-family: Celias;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+}
+.How-Incola-works {
+    margin-top: 14%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    font-family: Celias;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.Incola-rereverses-wh {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    font-family: Celias;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: center;
+    color: #767676;
+}
+.Asset-95-Copy {
+    width: 157px;
+    height: auto;
+    object-fit: contain;
+}
+.What-you-pay-us {
+    width: 142px;
+    height: 22px;
+    font-family: Celias;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.noun_512951_cc {
+    width: 32px;
+    height: 31px;
+    object-fit: contain;
+    transform: rotate(-14deg);
+}
+.Asset-96 {
+    width: 158px;
+    height: auto;
+    object-fit: contain;
+}
+.What-we-pay-to-RBO {
+    width: 168px;
+    height: 22px;
+    font-family: Celias;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.noun_512951_cc-copy {
+    width: 40px;
+    height: 39px;
+    object-fit: contain;
+    transform: rotate(24deg);
+}
+.Asset-97 {
+    width: 169px;
+    height: auto;
+    object-fit: contain;
+}
+.-Fee-that-we-coll {
+    width: 179px;
+    height: 22px;
+    font-family: Celias;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.noun_512951_cc-copy-2 {
+    width: 40px;
+    height: 39px;
+    float: right;
+    object-fit: contain;
+    transform: rotate(24deg);
+}
+.flex-container4 {
+    display: flex;
+    margin-top: 8%;
+    align-items: center;
+    justify-content: center;
+}
+.flex-container4 > .Click-here-to-unders {
+    height: 18px;
+    font-family: Celias;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.3px;
+    color: #ff3d56;
+}
+.Benefits {
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 51px;
+    font-family: Celias;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+.flex-container5{
+    display: flex;
+    margin-top: 4%;
+    align-items: center;
+    justify-content: center;
+}
+.flex-container5 > .Rectangle-10-Copy {
+    width: 750px;
+    height: auto;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.17);
+}
+.grid-container1{
+    display: grid;
+    grid-gap: 2em;
+    justify-content: center;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto;
+}
+.item-1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.item-2 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+.item-3 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.item-4 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+.item-5 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.item-6 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+.item-7 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.item-8 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+.noun_1190861_cc {
+    width: 27px;
+    height: 60px;
+    object-fit: contain;
+}
+.noun_706367_cc {
+    width: 65px;
+    height: 60px;
+    object-fit: contain;
+}
+.noun_1301441_cc {
+    width: 56px;
+    height: 60px;
+    object-fit: contain;
+}
+.noun_1063309_cc_1 {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+}
+.Instant-bond-payment {
+    /* margin-left: 10%; */
+    height: 25px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+.Payback-in-4-simple {
+    /* margin-left: 10%; */
+    height: 25px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+.Seamless-payments-n {
+    /* margin-left: 10%; */
+    height: 25px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+.Completely-Supported {
+    /* margin-left: 10%; */
+    height: 25px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+.We-pay-the-full-bond {
+    width: 457px;
+    height: 66px;
+    font-family: Celias;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.You-can-pay-back-to {
+    width: 457px;
+    height: 66px;
+    font-family: Celias;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.You-can-pay-us-using {
+    width: 457px;
+    height: 66px;
+    font-family: Celias;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.Incola-follows-a-ful {
+    width: 457px;
+    height: 66px;
+    font-family: Celias;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #767676;
+    color: var(--warm-grey);
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+}
+.Item1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
+.Item2{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    position: relative;
+}
+.content {
+    position: absolute;
+    bottom: 0;
+    padding-left: 10%;
+}
+.text {
+    height: 25px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--watermelon);
+}
+.Item3 {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
+.Item4 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.Rectangle-20-42 {
+    width: 258px;
+    height: 65px;
+    font-family: Celias;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #ffffff;
+    border-radius: 10px;
+    background-image: linear-gradient(256deg, #ff705a, #ff5e70);
+    box-shadow: 0 10px 20px 5px rgba(255, 61, 86, 0.3);
+}
+.Group-4 {
+    width: 440px;
+    height: 715px;
+    object-fit: contain;
+}
+.Group-7 {
+    width: 513px;
+    height: 731px;
+    object-fit: contain;
+}
+.Incola1 {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    object-fit: contain;
+    opacity: 0.5;
+    font-family: Celias;
+    font-size: 168px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #dddddd;
+    color: var(--white);
+}
